@@ -1,29 +1,24 @@
-
 **Introduction**
 
-Here are WeChat built-in emojis updated in 2021 with higher resolution. 
+Here are WeChat built-in emojis updated in 2021 with higher resolution.
 
 微信于2021年更新的自带表情。
 
-***
+---
 
 **Data Source:**
 
 - [Emojipedia](https://emojipedia.org/wechat/) (access 2022-01-05)
-
 - [WeChat Official Accounts Platform](https://mp.weixin.qq.com/) (access 2022-01-05)
-
 - [Web WeChat](https://web.wechat.com/) (access 2022-01-08)
 
 **Tool for Compression:**
 
 - [TinyPNG](https://tinypng.com/) (access 2022-01-05)
-
 - [cwebp](https://developers.google.com/speed/webp/docs/cwebp) (v1.2.2-rc1)
-
 - [limitPNG](https://github.com/nullice/limitPNG) (beta4 x64)
 
-***
+---
 
 [wechat-emoticons](https://github.com/qiuyinghua/wechat-emoticons)
 
@@ -37,7 +32,7 @@ Here are WeChat built-in emojis updated in 2021 with higher resolution.
 
 上面这个网站收集了2015第4版及2020新增的QQ表情（动态 GIF）。
 
-*** 
+---
 
 下面还有其他一些链接，记录于此，方便查阅：
 
@@ -46,3 +41,5 @@ https://github.com/qiphon/wechat-emoji
 https://github.com/deepkolos/wechat-emoji
 
 https://github.com/li-zyang/wx-emoji
+
+例子: 回显图片通过  https://cdn.jsdelivr.net/gh/wdm510708502/wechat-emoji2@main/mp.weixin.qq.com/compressed-tinypng/表情包名称.png
